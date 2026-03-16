@@ -74,8 +74,6 @@ Interactive Power BI dashboard for sales, inventory, and KPI analysis.
 ## 🌱 Currently Working On
 - Improving ML system design & MLOps
 - Building production AI applications
-- Scaling my own startup brand 🚀
-- Staying consistent at the gym 💪
 
 ---
 
